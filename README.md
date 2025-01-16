@@ -1,4 +1,4 @@
-# TopTop &ndash; A TikTok Clone Project
+# TokenApp &ndash; A TikTok Clone Project
 
 [![Contributors][contributors-shield]][contributors-url]
 
