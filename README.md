@@ -9,7 +9,7 @@
     <img src="app/src/main/res/drawable/toptoplogo.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">TopTop</h3>
+<h3 align="center">Token</h3>
 </div>
 
 
