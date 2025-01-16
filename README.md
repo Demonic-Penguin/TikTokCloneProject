@@ -1,4 +1,4 @@
-# TopTop &ndash; A TikTok's Clone Project
+# TopTop &ndash; A TikTok Clone Project
 
 [![Contributors][contributors-shield]][contributors-url]
 
